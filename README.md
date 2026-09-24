@@ -8,6 +8,36 @@ A modern, full-featured restaurant website with online ordering, table reservati
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ---
+## 🖼️ Screenshots
+
+### 🏠 Homepage
+![Homepage](restaurant/screenshots/home.png)
+
+### 🍽️ Menu
+![Menu](restaurant/screenshots/menu.png)
+
+### 🛒 Shopping Cart
+![Cart](restaurant/screenshots/cart.png)
+
+### 🛏️ Rooms & Suites
+![Rooms](restaurant/screenshots/rooms.png)
+
+### 📸 Gallery
+![Gallery](restaurant/screenshots/gallery.png)
+
+### 🎉 Events
+![Events](restaurant/screenshots/events.png)
+
+### 🏢 Branches
+![Branches](restaurant/screenshots/branches.png)
+
+### 📞 Contact
+![Contact](restaurant/screenshots/contact.png)
+
+### 🏠 About
+![About](restaurant/screenshots/about.png)
+
+
 
 ## 📖 Table of Contents
 
@@ -105,38 +135,7 @@ The project is designed to be deployed on any shared hosting environment (tested
 
 ---
 
-## 🖼️ Screenshots
 
-## 🖼️ Screenshots
-
-## 🖼️ Screenshots
-
-### 🏠 Homepage
-![Homepage](restaurant/screenshots/home.png)
-
-### 🍽️ Menu
-![Menu](restaurant/screenshots/menu.png)
-
-### 🛒 Shopping Cart
-![Cart](restaurant/screenshots/cart.png)
-
-### 🛏️ Rooms & Suites
-![Rooms](restaurant/screenshots/rooms.png)
-
-### 📸 Gallery
-![Gallery](restaurant/screenshots/gallery.png)
-
-### 🎉 Events
-![Events](restaurant/screenshots/events.png)
-
-### 🏢 Branches
-![Branches](restaurant/screenshots/branches.png)
-
-### 📞 Contact
-![Contact](restaurant/screenshots/contact.png)
-
-### 🏠 About
-![About](restaurant/screenshots/about.png)
 
 
 
