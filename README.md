@@ -115,7 +115,8 @@ The project is designed to be deployed on any shared hosting environment (tested
 ### 🍽️ Menu
 ![Menu](screenshots/menu.png)
 ### 🍽️ About
-![Menu](screenshots/about.png)
+![Menu](<img width="1353" height="684" alt="image" src="https://github.com/user-attachments/assets/8e34cf0d-8f79-4863-b771-34428f50c553" />
+)
 ### 🛒 Shopping Cart
 ![Cart](screenshots/cart.png)
 
