@@ -107,9 +107,33 @@ The project is designed to be deployed on any shared hosting environment (tested
 
 ## 🖼️ Screenshots
 
-> Add screenshots after deployment for a professional look.
-> Suggested filenames inside a `/screenshots` folder:
-> `home.png`, `menu.png`, `cart.png`, `rooms.png`, `admin.png`
+## 🖼️ Screenshots
+
+### 🏠 Homepage
+![Homepage](screenshots/home.png)
+
+### 🍽️ Menu
+![Menu](screenshots/menu.png)
+### 🍽️ About
+![Menu](screenshots/about.png)
+### 🛒 Shopping Cart
+![Cart](screenshots/cart.png)
+
+### 🛏️ Rooms & Suites
+![Rooms](screenshots/rooms.png)
+
+### 🍽️ Gallery
+![Menu](screenshots/gallery.png)
+
+### 🍽️ Events
+![Menu](screenshots/events.png)
+### 🍽️ Branches
+![Menu](screenshots/branches.png)
+
+### 🍽️ Contact
+![Menu](screenshots/contact.png)
+
+
 
 ---
 
