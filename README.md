@@ -109,30 +109,34 @@ The project is designed to be deployed on any shared hosting environment (tested
 
 ## 🖼️ Screenshots
 
+## 🖼️ Screenshots
+
 ### 🏠 Homepage
-![Homepage](screenshots/home.png)
+![Homepage](restaurant/screenshots/home.png)
 
 ### 🍽️ Menu
-![Menu](screenshots/menu.png)
-### 🍽️ About
-![Menu](<img width="1353" height="684" alt="image" src="https://github.com/user-attachments/assets/8e34cf0d-8f79-4863-b771-34428f50c553" />
-)
+![Menu](restaurant/screenshots/menu.png)
+
 ### 🛒 Shopping Cart
-![Cart](screenshots/cart.png)
+![Cart](restaurant/screenshots/cart.png)
 
 ### 🛏️ Rooms & Suites
-![Rooms](screenshots/rooms.png)
+![Rooms](restaurant/screenshots/rooms.png)
 
-### 🍽️ Gallery
-![Menu](screenshots/gallery.png)
+### 📸 Gallery
+![Gallery](restaurant/screenshots/gallery.png)
 
-### 🍽️ Events
-![Menu](screenshots/events.png)
-### 🍽️ Branches
-![Menu](screenshots/branches.png)
+### 🎉 Events
+![Events](restaurant/screenshots/events.png)
 
-### 🍽️ Contact
-![Menu](screenshots/contact.png)
+### 🏢 Branches
+![Branches](restaurant/screenshots/branches.png)
+
+### 📞 Contact
+![Contact](restaurant/screenshots/contact.png)
+
+### 🏠 About
+![About](restaurant/screenshots/about.png)
 
 
 
